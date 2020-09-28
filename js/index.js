@@ -110,7 +110,7 @@ contentText[0].textContent = siteContent['main-content']['features-content']
 contentText[1].textContent = siteContent['main-content']['about-content']
 contentText[2].textContent = siteContent['main-content']['services-content']
 contentText[3].textContent = siteContent['main-content']['product-content']
-contentText[4].textContent = siteContent['main-content']['vison-content']
+contentText[4].textContent = siteContent['main-content']['vision-content']
 
 // --- contact title
 let contactTitle = document.querySelector('.contact h4')
